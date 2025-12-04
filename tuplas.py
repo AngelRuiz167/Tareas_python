@@ -464,4 +464,5 @@ REFERENCIAS:
 3) https://realpython.com/python-lists-tuples/
 4) apuntes de la clase.
 5) Ayuda de ChatGPT (OpenAI), 2025.
+Enlace de github: ayuda de ChatGPT (OpenAI), 2025.
 """
